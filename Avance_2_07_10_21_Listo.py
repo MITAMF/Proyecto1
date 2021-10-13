@@ -263,7 +263,7 @@ print("El porcentaje de ocurrencia del agua es: ",PorcA)
 ##### En caso de mimsa ocurrencia u mayor ocurrencia #####
 
 if PorcP == PorcB :
-    print("El porcentaje de ocurrencias de las dos especias es la misma :) ")
+    print("El porcentaje de ocurrencias de las dos especies es la misma :) ")
 elif PorcP > PorcB : 
     print("El porcentaje con mayor de ocurrencias es: ", PorcP)
 elif PorcP < PorcB :
